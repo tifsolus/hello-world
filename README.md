@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donald Osgood</h1>
 <h3 align="center">A passionate frontend and backend developer\architect</h3>
 
-- 🔭 I’m currently working on [Xphera Earth](xphera.earth)
+- 🔭 I’m currently working on AR [Xphera Earth](xphera.earth)
 
 - 🌱 I’m currently learning **Go Language**
 
